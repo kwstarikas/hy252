@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"m":"HY252","l":"mcv.controller"},{"m":"HY252","l":"mcv.model.card"},{"m":"HY252","l":"mcv.model.deck"},{"m":"HY252","l":"mcv.model.pawn"},{"m":"HY252","l":"mcv.model.player"},{"m":"HY252","l":"mcv.model.square"},{"m":"HY252","l":"mcv.view"}]

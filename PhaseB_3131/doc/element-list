@@ -1,0 +1,8 @@
+module:HY252
+mcv.controller
+mcv.model.card
+mcv.model.deck
+mcv.model.pawn
+mcv.model.player
+mcv.model.square
+mcv.view

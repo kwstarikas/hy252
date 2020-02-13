@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"csd.uoc.gr.TemplateValidator","c":"ValidatorScript","l":"main(String[])","url":"main(java.lang.String[])"}]
